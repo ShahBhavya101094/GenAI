@@ -24,7 +24,6 @@ Understand foundational GenAI models (like GPT-4, Claude, Gemini, etc.) and mast
 * Reverse-engineer prompts on PromptBase or FlowGPT
 * Build a Prompt Library for different tasks (summarization, QA, role-play, etc.)
 
----
 
 ## 💻 **2. Use LLM APIs in Your Code**
 
@@ -50,7 +49,7 @@ Integrate GenAI capabilities into your applications using RESTful APIs or Python
 * Create a chatbot using OpenAI + Streamlit
 * Build an LLM-powered summarizer, translator, or tutor
 
----
+
 
 ## 🛠️ **3. Explore Fine-Tuning and Retrieval-Augmented Generation (RAG)**
 
@@ -75,7 +74,7 @@ Enhance performance on domain-specific tasks using custom data.
 * Fine-tune a small model on your own data (e.g., customer support chat)
 * Create a RAG chatbot that can answer from internal documents
 
----
+
 
 ## 🎨 **4. Explore Image, Audio & Video Generation Models**
 
@@ -101,7 +100,7 @@ Understand and use multi-modal GenAI tools for creative and real-world applicati
 * Build a web app to generate images or audio from text
 * Use ControlNet for guided image generation
 
----
+
 
 ## 🧩 **5. Create Your Own Model & Agentic AI**
 
@@ -127,7 +126,6 @@ Build custom models or AI agents capable of autonomous task execution.
 * Train a custom model on a small domain corpus
 * Build an autonomous research assistant or multi-agent system using CrewAI
 
----
 
 ## 🎓 Bonus: Learning Resources
 
