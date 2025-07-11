@@ -42,8 +42,6 @@ This presentation, titled **"Generative AI: Opportunities and Challenges"**, int
 - Retrieval-Augmented Generation (RAG) for domain-specific responses
 - Benefits of RAG over full fine-tuning
 
----
-
 ## 🧠 GenAI Learning Curve Diagram (Visual Guide)
 
 A companion visual guide is included:
